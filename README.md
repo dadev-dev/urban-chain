@@ -16,4 +16,36 @@ This project would help remove Nigeria's from the chains of urbanisation by crea
 </p>
 
 
+## Description
 
+urban-unchainned is a framework for building efficient, scalable
+
+## Philosophy
+
+<p>In recent years, thanks to </p>
+
+
+
+## Getting started
+
+* To check out the [guide](https://docs.), visit [docs.urban-unchain.com](https://docs.nestjs.com). :books:
+* 要查看中文 [指南](readme_zh.md), 请访问 [docs.nestjs.cn](https://docs.nestjs.cn). :books:
+
+## Questions
+
+For questions and support please use the official
+
+
+## Contributors
+
+<a href="https://github.com/dadev-dev/urban-unChain/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=dadev-dev/urban-unChain" />
+</a>
+
+## Stay in touch
+
+* Author - [victor oisamoje](https://twitter.com/oisavictor)
+* Website - [https://urban_unchain.com](https://urban-unchain.com/)
+* Twitter - [@ubarnunchain](https://twitter.com/urban-unchain)
+
+## License
